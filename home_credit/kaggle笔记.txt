@@ -1,0 +1,5 @@
+1. 取消warning警告
+	import warnings
+	warnings.filterwarnings('ignore')
+	
+2. 检验构造变量对因变量的影响可用相关系数或者核密度图查看kde_target（）
